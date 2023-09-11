@@ -13,7 +13,6 @@
   ![Profile views](https://komarev.com/ghpvc/?username=Equipo45&color=blue)
   
 ### Stats
-  ![Ismael's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Equipo45)
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Equipo45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
