@@ -11,8 +11,4 @@
     </div>
     <p><img src="https://komarev.com/ghpvc/?username=Equipo45&color=blue" alt="Profile views"/></p>
   </div>
-  
-  <div id="stats" style="margin-left: 20px;">
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Equipo45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 </div>
