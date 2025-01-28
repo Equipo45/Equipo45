@@ -1,1 +1,1 @@
-Lo hice solo por diversión.
+La alabanza propia envilece.
