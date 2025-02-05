@@ -1,1 +1,1 @@
-La alabanza propia envilece.
+«La alabanza propia envilece.» ~ Miguel de Cervantes
